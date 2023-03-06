@@ -6,7 +6,8 @@
 }
 
 body {
-    background-color: rgb(80, 173, 173);
+    background-image: linear-gradient(to right, rgba(66, 146, 170, 0.699),
+     rgba(47, 129, 136, 0.952));
 }
 
 .header {
@@ -103,17 +104,63 @@ main section div {
 
 .projects a {
     flex-basis: 25%;
-    height: 100px
+    height: 100px;
+    
 }
 
 #surf-report {
     flex-basis: 100%;
-    height: 250px;
+    height: 600px;
     background-image: url(./images/Horiseon-1st-Screenshot.png);
     background-size: cover;
     width: 100px;
     border-color: black ;
-    border-style: solid;
-    padding: 5%;
+    border-style: solid ;
     margin-right: 3.5%;
+    
+}
+
+#surf-report:hover {
+    opacity: 75%;
+}
+
+#led-wall, #calculator {
+    /* flex-basis: 100; */
+    height: 200px;
+    background-image: url(./images/placeholder-image.png);
+    background-size: cover;
+    width: 100px;
+    border-color: black ;
+    border-style: solid;
+    margin-right: 3.5%;
+}
+
+#pastel-puzzels, #run-buddy {
+    /* flex-basis: 100; */
+    height: 200px;
+    background-image: url(./images/placeholder-image.png);
+    background-size: cover;
+    width: 150px;
+    border-color: black ;
+    border-style: solid;
+    margin-right: 3.5%;
+}
+
+.section-content {
+    text-decoration: underline;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    font-size: 200%;
+    padding-right: 3.5%;
+    
+}
+
+.section-content a {
+    color: black;
+}
+
+.section-content a:hover {
+    color: rgb(255, 251, 0); 
 }
