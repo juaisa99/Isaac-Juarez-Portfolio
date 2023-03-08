@@ -9,7 +9,7 @@ This assignment was to create a portfolio that will demonstrate our current and 
 - [Portfolio] (#Portfolio)
 - [Screenshot] (#Screenshot)
 - [Link] (#Link)
-- [Credits] (#Credits)
+
 
 ## Portfolio 
 
@@ -18,3 +18,8 @@ My portfolio includes an about me section, my current and upcoming work. It also
 ## Screenshot 
 ![Alt text](assets/images/1stpart-screenshot.png)
 ![Alt text](assets/images/2ndpart-screenshot.png)
+
+## Link
+
+https://juaisa99.github.io/Isaac-Juarez-Portfolio/
+
