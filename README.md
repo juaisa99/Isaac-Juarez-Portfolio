@@ -11,4 +11,10 @@ This assignment was to create a portfolio that will demonstrate our current and 
 - [Link] (#Link)
 - [Credits] (#Credits)
 
-## Portfolio
+## Portfolio 
+
+My portfolio includes an about me section, my current and upcoming work. It also includes a section that includes all my possible contact methods, including social media and my personal taste in music.
+
+## Screenshot 
+![Alt text](assets/images/1stpart-screenshot.png)
+![Alt text](assets/images/2ndpart-screenshot.png)

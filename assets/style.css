@@ -125,38 +125,47 @@ main section div {
     height: 600px;
     background-image: url(./images/Horiseon-1st-Screenshot.png);
     background-size: cover;
-    
     border-color: black ;
     border-style: solid ;
-    
-    
 }
 
 #surf-report:hover {
     opacity: 75%;
 }
 
-#led-wall, #calculator {
-
-    background-image: url(./images/abstrack-second.jpg);
+#led-wall, #calculator, #pastel-puzzels, #run-buddy {
     background-size: cover;
     border-color: black ;
     border-style: solid;
-    
 }
 
 #led-wall:hover {
     opacity: 75%;
 }
 
-#pastel-puzzels, #run-buddy {
-    
-    background-image: url(./images/abstrack-second.jpg);
-    background-size: cover;
-    border-color: black ;
-    border-style: solid;
+#led-wall {
+    background-image: url(./images/LED_wall_.jpg);
 }
-
+#calculator {
+    background-image: url(./images/basic-calculator.jpg);
+}
+#calculator:hover{
+    opacity: 75%;
+}
+#pastel-puzzels {
+    background-image: url(./images/pastels-art.png);
+}
+#pastel-puzzels:hover{
+    opacity: 75%;
+    \
+    
+}
+#run-buddy {
+    background-image: url(./images/runbuddy.jpg);
+}
+#run-buddy:hover {
+    opacity: 75%;
+}
 .section-content {
     text-decoration: underline;
     flex-wrap: wrap;
